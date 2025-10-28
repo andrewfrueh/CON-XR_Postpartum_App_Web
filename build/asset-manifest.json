@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8138ad8e.css",
-    "main.js": "/static/js/main.0742b1d2.js",
-    "static/js/453.91a3cafb.chunk.js": "/static/js/453.91a3cafb.chunk.js",
-    "index.html": "/index.html",
-    "main.8138ad8e.css.map": "/static/css/main.8138ad8e.css.map",
-    "main.0742b1d2.js.map": "/static/js/main.0742b1d2.js.map",
-    "453.91a3cafb.chunk.js.map": "/static/js/453.91a3cafb.chunk.js.map"
+    "main.css": "/CON-XR_Postpartum_App_Web/static/css/main.8138ad8e.css",
+    "main.js": "/CON-XR_Postpartum_App_Web/static/js/main.903702ec.js",
+    "static/js/453.91a3cafb.chunk.js": "/CON-XR_Postpartum_App_Web/static/js/453.91a3cafb.chunk.js",
+    "index.html": "/CON-XR_Postpartum_App_Web/index.html",
+    "main.8138ad8e.css.map": "/CON-XR_Postpartum_App_Web/static/css/main.8138ad8e.css.map",
+    "main.903702ec.js.map": "/CON-XR_Postpartum_App_Web/static/js/main.903702ec.js.map",
+    "453.91a3cafb.chunk.js.map": "/CON-XR_Postpartum_App_Web/static/js/453.91a3cafb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8138ad8e.css",
-    "static/js/main.0742b1d2.js"
+    "static/js/main.903702ec.js"
   ]
 }
